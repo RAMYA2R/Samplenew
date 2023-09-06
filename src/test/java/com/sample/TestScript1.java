@@ -2,7 +2,7 @@ package com.sample;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
+//This is testScript
 public class TestScript1 {
  @Test
  public void test1()
