@@ -15,7 +15,7 @@ public void demo() throws InterruptedException
 	switch(browser)
 	{
 	case "chrome":
-		System.setProperty("webdriver.chrome.driver", "/src/main/resources/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./src/main/resources/chromedriver.exe");
 		driver=new ChromeDriver();
 		break;
 	
