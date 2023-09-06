@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.sample.TestScript2"/>
-      <class name="com.sample.TestScript1"/>
+      <class name="com.sample.JenkinsParameterizationTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
